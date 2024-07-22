@@ -1,0 +1,20 @@
+/*p{
+	color: red;
+}
+h3 {
+	color: greenyellow;   /*element selector*/
+}
+.about-list-item {       /*class selector*/
+	font-style: italic;
+}
+#my-name{
+	color: blueviolet;   /*id selector*/
+}
+
+
+
+/*there are 3types of css
+Element selector - tells that any h3 should change to color red
+class selector - when you want multiple elements needs to have the same css selector
+ID selector
+note: i used this style.css for my work in project.html*/
